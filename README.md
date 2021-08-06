@@ -1,2 +1,2 @@
 # pynamodbDynamoStreamTest
-test using pynamodb with dynamodb table streams
+Example code for using pynamodb in a lambda function triggered by a dynamodb table stream
